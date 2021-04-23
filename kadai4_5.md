@@ -3,7 +3,7 @@
 start
 if (weather=0) then (true)
   :快晴です;
-elseif (false) then(weather=1) then(ture)
+elseif (weather=1) then(ture)
   :曇りです;
 elseif (weather=2) then(true)
   :雨です;
