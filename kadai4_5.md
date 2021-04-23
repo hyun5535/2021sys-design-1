@@ -7,7 +7,7 @@ elseif (weather=1) then(ture)
   :曇りです;
 elseif (weather=2) then(true)
   :雨です;
-else then(false)
+else (false)
   :不明です;
 endif
 stop
